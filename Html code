@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tribute page</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1>Mahendra Singh Dhoni</h1>
+    <h3>The Man Who Created His Own Legacy</h3>
+    <br />
+    <img src="MSD.jpeg" alt="MS Dhoni Picture" class="img" />
+    <p>
+
+        ☛  M.S. Dhoni, born on July 7, 1981, in Ranchi, India, is a cricketing
+        legend who has left an <b>indelible mark</b> on the sport. <br>
+        ☛  Affectionately known as <b>"Captain Cool"</b> Dhoni is celebrated for his calm
+        and composed demeanor, both on and off the field. <br>
+        ☛  His leadership skills came to the forefront when he captained the Indian
+        cricket team to numerous historic victories, including the 2007 ICC
+        World Twenty20, the 2010 and 2016 Asia Cups, and the pinnacle of
+        success, the <strong>ICC Cricket World Cup.</strong>  <br>
+        ☛  Dhoni's tactical acumen, astute decision-making, and ability to handle
+        pressure situations earned him respect and admiration worldwide. <br>
+        ☛  Apart from his captaincy, Dhoni is a highly accomplished
+        <mark >wicketkeeper-batsman</mark>, known for his explosive batting style and
+        lightning-quick stumpings. <br>
+        ☛  His <b>helicopter shot</b>, a signature move, has become iconic in the
+        cricketing world. Beyond the cricket pitch, Dhoni has also made a mark
+        in various philanthropic and business endeavors, showcasing his diverse
+        talents and leadership beyond the boundary ropes.  <br>
+        ☛  Even after stepping down from captaincy and international cricket, M.S.
+        Dhoni's <b>Legacy</b> continues to inspire aspiring cricketers and fans alike.  <br> 
+    </p>
+
+    <small class="last">This is a practice project which is done by <a href="https://www.linkedin.com/in/kamaleshvijayakumar30/" target="_blank">Kamalesh Vijayakumar</a></small>
+    
+  </body>
+</html>
